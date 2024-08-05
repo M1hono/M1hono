@@ -1,6 +1,6 @@
 ## Hi there/你好
 
-[[!M1hono's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1hono)](https://github.com/anuraghazra/github-readme-stats)
+[![M1hono's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1hono)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Crychic](https://docs.mihono.cn/logo.png)
 
