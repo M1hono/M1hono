@@ -1,8 +1,12 @@
 # Hi there
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M1hono" alt="M1hono's GitHub stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1hono&layout=compact" alt="Top Languages" width="48%">
   <img src="https://docs.mihono.cn/logo.png" alt="Crychic" width="48%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M1hono&show_icons=true" alt="M1hono's GitHub stats" width="48%">
 </div>
 
 ## About Me
