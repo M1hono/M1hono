@@ -1,6 +1,6 @@
 ## Hi there/你好
 
-I'm the Leader of Crychic Team for minecraft developing.
+I'm the Leader of Crychic Team for minecraft developing. You could call me mihono or gedwen.
 
 Crychic is a co-creation team primarily focused on Minecraft development, dedicated to producing content that players need and love.
 
@@ -10,7 +10,7 @@ Crychic is primarily a development group serving players and creating content, w
 
 ~~It has only a name in common with the team from Bangdream.~~
 
-我是不是客服，Crychic团队的领头人。
+我是不是客服，Crychic团队的领头人,你可以叫我客服或水獭。
 
 Crychic是以我的世界开发为主要活动的共创团队，致力于输出玩家需要与喜爱的内容。
 
