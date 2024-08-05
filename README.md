@@ -1,5 +1,8 @@
 ## Hi there/你好
 
+[!M1hono's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1hono)](https://github.com/anuraghazra/github-readme-stats)
+![Crychic](https://docs.mihono.cn/logo.png)
+
 I'm the Leader of Crychic Team for minecraft developing. You could call me mihono or gedwen.
 
 Crychic is a co-creation team primarily focused on Minecraft development, dedicated to producing content that players need and love.
