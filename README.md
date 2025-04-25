@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm the Leader of Crychic Team for Minecraft development. You can call me mihono or gedwen.
+I'm the Leader of PickAID Team for Minecraft development. You can call me mihono or gedwen.
 
 ## About PickAID
 
@@ -26,7 +26,7 @@ I formed this team to challenge myself and deliver high-quality content to the c
 
 ## 关于我
 
-我是不是客服，Crychic团队的领头人，你可以叫我客服或水獭。
+我是不是客服，PickAID团队的领头人，你可以叫我客服或水獭。
 
 ## 关于PickAID
 
