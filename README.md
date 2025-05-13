@@ -10,8 +10,8 @@
 
 <div align="center">
   
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=M1hono.M1hono)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/your-server)
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=M1hono.mihoho4466)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)]([https://discord.gg/your-server](https://discord.gg/uPJHxU46td))
   
 </div>
 
