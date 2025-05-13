@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1hono&layout=compact" alt="Top Languages" width="48%">
-  <img src="https://docs.mihono.cn/logo.png" alt="Crychic" width="48%">
+  <img src="/原色透明2000x.png" alt="PickAID" width="48%">
 </div>
 
 <div align="center">
