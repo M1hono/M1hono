@@ -10,7 +10,7 @@
   [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=M1hono&theme=flat&column=4&no-frame=true&margin-w=15)](https://github.com/M1hono)
   
   <p>
-    <a href="https://discord.gg/your-server">
+    <a href="https://discord.gg/uPJHxU46td">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
     <a href="https://minecraft.net">
