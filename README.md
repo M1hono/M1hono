@@ -40,7 +40,7 @@ I specialize in creating Minecraft mods and developing server infrastructure. Wi
 
 ## 🚀 About PickAID | 关于PickAID
 
-<details open>
+<details closed>
 <summary>🇬🇧 English</summary>
 <div>
 PickAID is a co-creation team primarily focused on Minecraft development, dedicated to producing content that players need and love. Our projects include mod development, pack integration, server setup, and providing extensive and practical documentation for modders.
@@ -51,7 +51,7 @@ I formed this team to challenge myself and deliver high-quality content to the c
 </div>
 </details>
 
-<details open>
+<details closed>
 <summary>🇨🇳 中文</summary>
 <div>
 PickAID是以我的世界开发为主要活动的共创团队，致力于输出玩家需要与喜爱的内容。目前项目涵盖模组开发、整合包制作、服务端搭建，以及为魔改者提供丰富实用的文档。
