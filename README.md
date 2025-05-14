@@ -24,14 +24,19 @@
 
 ## 🌍 About Me | 关于我
 
-<img align="right" width="280px" src="/cold-dorothy.gif" alt="Cold Dorothy GIF" />
-<div align="left">
+<img align="right" width="200px" src="/cold-dorothy.gif" alt="Cold Dorothy GIF" />
 
 I'm the Leader of PickAID Team for Minecraft development. You can call me mihono or gedwen.
 
 我是PickAID团队的领头人，你可以叫我客服或水獭。
 
-</div>
+<br>
+
+I specialize in creating Minecraft mods and developing server infrastructure. With a passion for both coding and gaming, I enjoy building tools that enhance the Minecraft experience for players worldwide.
+
+作为一名我的世界开发者，我专注于模组开发和服务器架构。我热爱编程和游戏，致力于为全球玩家打造更好的游戏体验。
+
+<br>
 
 ## 🚀 About PickAID | 关于PickAID
 
@@ -61,7 +66,7 @@ PickAID是主要服务玩家与进行内容创作的开发小组；而Avemujica�
 
 <div align="center">
   
-| 🔧 Mod Development<br>模组开发 | 📦 Pack Integration<br>整合包制作 | 🖥️ Server Setup<br>服务端搭建 | 📚 Documentation<br>文档编写 |
+| <img src="https://img.shields.io/badge/-%F0%9F%94%A7%20Mod%20Development-lightgrey?style=flat-square" alt="Mod Development"><br>模组开发 | <img src="https://img.shields.io/badge/-%F0%9F%93%A6%20Pack%20Integration-lightgrey?style=flat-square" alt="Pack Integration"><br>整合包制作 | <img src="https://img.shields.io/badge/-%F0%9F%96%A5%EF%B8%8F%20Server%20Setup-lightgrey?style=flat-square" alt="Server Setup"><br>服务端搭建 | <img src="https://img.shields.io/badge/-%F0%9F%93%9A%20Documentation-lightgrey?style=flat-square" alt="Documentation"><br>文档编写 |
 |:-------------:|:-------------:|:-------------:|:-------------:|
 | Custom Minecraft modifications<br>自定义我的世界模组 | Curated modpacks and resource packs<br>精心制作的模组包和资源包 | Professional Minecraft server solutions<br>专业的我的世界服务器解决方案 | Comprehensive guides for modders<br>为魔改者提供全面的指南 |
   
@@ -82,7 +87,7 @@ PickAID是主要服务玩家与进行内容创作的开发小组；而Avemujica�
 
 ## 📈 GitHub Activity | GitHub 活动
 
-![M1hono's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M1hono&theme=tokyo-night&hide_border=true)
+![M1hono's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=M1hono&theme=minimal&hide_border=true)
 
 ## 📫 Contact Me | 联系方式
 
@@ -102,4 +107,5 @@ PickAID是主要服务玩家与进行内容创作的开发小组；而Avemujica�
   
 Interested in joining our team? Get in touch!  
 想加入我们的团队？请与我联系！
+
 </div>
