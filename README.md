@@ -7,7 +7,7 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1hono&theme=default&show_icons=true&hide_border=true&count_private=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1hono&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="35%" />
   
-  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=M1hono&theme=flat&column=4&no-frame=true&margin-w=15)](https://github.com/M1hono)
+  [![GitHub Trophy](https://trophygh.kolioaris.xyz/?username=M1hono&theme=flat&column=4&no-frame=true&margin-w=15)](https://github.com/M1hono)
   
   <p>
     <a href="https://discord.gg/uPJHxU46td">
